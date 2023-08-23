@@ -1,0 +1,12 @@
+body {
+    Bacground #CCCCCC;
+}
+
+p {
+    text aligh: center;
+    background: #CCCCCC;
+}
+
+em strong {
+    color: red;
+}
