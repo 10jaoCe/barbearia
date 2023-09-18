@@ -18,6 +18,9 @@ p {
 em strong {
     color: #FF0000;
 }
+.itens {
+font-style: italic;
+}
 
 #missao{
     font-size: 20px
