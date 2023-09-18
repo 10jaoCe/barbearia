@@ -2,6 +2,10 @@ body {
     Bacground #CCCCCC;
 }
 
+ #banner {
+    width: 100%;
+ }
+
 h1 {
     text-align: center;
 }
@@ -12,9 +16,9 @@ p {
 }
 
 em strong {
-    color: red;
+    color: #FF0000;
 }
 
-#miao{
+#missao{
     font-size: 20px
 }
