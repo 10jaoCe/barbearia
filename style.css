@@ -1,5 +1,4 @@
-body {
-    Bacground #CCCCCC;
+body {    
 }
 
  #banner {
@@ -17,6 +16,14 @@ p {
 
 em strong {
     color: #FF0000;
+}
+
+.benefícios {
+    bacground: #FFFFFF;
+}
+
+.itens {
+    font-style: italic;
 }
 
 #missao{
